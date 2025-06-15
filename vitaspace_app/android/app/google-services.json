@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166253036259",
+    "project_id": "vitaspace-a88ea",
+    "storage_bucket": "vitaspace-a88ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166253036259:android:a38eee320487f47955bbd6",
+        "android_client_info": {
+          "package_name": "com.vitaspace.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcrfrDk7JJClDSk4RiP02MXgWBBc_GJjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

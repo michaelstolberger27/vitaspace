@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Vitaspace</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>vitaspace_app</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Required for detecting nearby Wi-Fi networks.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>This app needs Bluetooth access to communicate with IoT devices.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app requires location access to function properly.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Required for background Wi-Fi scanning.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Wi-Fi scanning requires location access.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app requires location permission to scan for Wi-Fi networks.</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need access to your location to scan Wi-Fi networks.</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>We need access to your location to scan Wi-Fi networks.</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>We need access to your location to scan Wi-Fi networks.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>App needs location access for Wi-Fi scanning.</string>
+
+<key>NSLocationAlwaysUsageDescription</key>
+<string>App needs location access for Wi-Fi scanning.</string>
+
+<key>NSLocationUsageDescription</key>
+<string>App needs location access for Wi-Fi scanning.</string>
+</dict>
+</plist>
